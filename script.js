@@ -7,7 +7,6 @@ window.onload = function() {
     let currentTypingIndicator = null;
     const messageQueue = [];
     let latestUserMessageText = "";
-    const API_KEY = "AIzaSyBC4B9KfsJcrkozJTF2WWt2gjLfjgRN440"; // DO NOT ABUSE MY API KEY!
     const Instruction = "You are my girlfriend, here to support and comfort me. Please respond with warmth and emotion, and keep it brief.";
 
     let conversationHistory = []; // Ahh AI Memories
